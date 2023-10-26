@@ -1,0 +1,10 @@
+potx.test.ini
+potx.log
+ven
+*.egg-info
+dist/
+__pycache__
+*.pyc
+.idea
+*.deb
+_build
